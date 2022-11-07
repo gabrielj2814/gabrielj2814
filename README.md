@@ -1,5 +1,6 @@
 Hi 👋 My name is Gabriel VAlera
-===============================Desarrollador Backend---------------------* 🌍  I'm based in Venezuela* 🧠  I'm learning Expressjs avanzado
+Desarrollador Backend
+🌍  I'm based in Venezuela* 🧠  I'm learning Expressjs avanzado
 
 ### Skills
 
